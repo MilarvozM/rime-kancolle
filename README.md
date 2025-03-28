@@ -25,11 +25,19 @@
 
 
 制作参考了2014年版本的既存QQ词库（搜狗未找到）：
+
 https://cdict.qq.pinyin.cn/detail?dict_id=s48206
+
 分类排序思路参考了2020年版本的RIME词库：
+
 https://bbs.nga.cn/read.php?tid=20070795
 
+
+
 舰船分类主要参考游戏内，舰种会转换的以最主要或者最长时间的使用类别为分组依据（例：朝日是修理舰，熊野铃谷是CAV）。
+
 舰娘排序参考日版wiki：https://wikiwiki.jp/kancolle/艦娘カード一覧2
+
 装备分类参考日版wiki：https://wikiwiki.jp/kancolle/装備カード一覧（種類別）
-晓响雷电这类单字船名做注释占位表示。
+
+晓响雷电这类单字做注释占位表示。

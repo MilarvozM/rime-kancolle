@@ -1,0 +1,320 @@
+# Rime dictionary
+# encoding: utf-8
+# 
+# 制作参考了2014年版本的既存QQ词库（搜狗未找到）：
+# https://cdict.qq.pinyin.cn/detail?dict_id=s48206
+# 分类排序思路参考了2020年版本的RIME词库：
+# https://bbs.nga.cn/read.php?tid=20070795
+#
+# 此为基础词库，只包含官方称呼，不包含黑话。
+# 外国舰因为用户个人选择会倾向于用外文名或中文名所以拆成两版词库，可以单独加装。（目前进度新建文件）
+# 黑话因为其复杂性单独做一个词库。
+
+# 本文件单独包含IJN船名。
+# 顺序为：种类-型-几号舰
+# 
+# 舰船分类主要参考游戏内，舰种会转换的以最主要或者最长时间的使用类别为分组依据（例：朝日是修理舰，熊野铃谷是CAV）。
+# 舰娘排序参考日版wiki：https://wikiwiki.jp/kancolle/艦娘カード一覧2
+# 晓响雷电这类单字船名做注释占位表示。
+---
+name: kancolle
+version: "2025-03-23"
+sort: by_weight
+...
+# 船名 Ships
+# FBB
+金刚	jin gang
+比叡	bi rui
+榛名	zhen ming
+雾岛	wu dao
+
+# BB/BBV
+扶桑	fu sang
+山城	shan cheng
+伊势	yi shi
+日向	ri xiang
+长门	chang men
+陆奥	lu ao
+大和	da he
+武藏	wu zang
+
+# CV
+赤城	chi cheng
+加贺	jia he
+苍龙	cang long
+飞龙	fei long
+翔鹤	xiang he
+瑞鹤	rui he
+云龙	yun long
+天城	tian cheng
+葛城	ge cheng
+
+# CVB
+大凤	da feng
+
+# CVL/CVE
+凤翔	feng xiang
+龙骧	long xiang
+龙凤	long feng
+祥凤	xiang feng
+瑞凤	rui feng
+飞鹰	fei ying
+隼鹰	sun ying
+春日丸	chun ri wan
+大鹰	da ying
+八幡丸	ba fan wan
+云鹰	yun ying
+神鹰	shen ying
+
+# CA/CAV
+古鹰	gu ying
+加古	jia gu
+青叶	qing ye
+衣笠	yi li
+
+妙高	miao gao
+那智	na zhi
+足柄	zu bing
+羽黑	yu hei
+
+高雄	gao xiong
+爱宕	ai dang
+
+摩耶	mo ye
+鸟海	niao hai
+
+最上	zui shang
+三隈	san wei
+铃谷	ling gu
+熊野	xiong ye
+
+利根	li gen
+筑摩	zhu mo
+
+# CL/CLT
+天龙	tian long
+龙田	long tian
+
+球磨	qiu mo
+多摩	duo mo
+北上	bei shang
+大井	da jing
+木曾	mu ceng
+
+长良	chang liang
+五十铃	wu shi ling
+名取	ming qu
+由良	you liang
+鬼怒	gui nu
+阿武隈	a wu wei
+
+川内	chuan nei
+神通	shen tong
+那柯	na ke
+
+夕张	xi zhang
+
+阿贺野	a he ye
+能代	neng dai
+矢矧	shi shen
+酒匂	jiu xiong
+
+大淀	da dian
+
+# CT
+香取	xiang qu
+鹿岛	lu dao
+
+# DD
+神风	shen feng
+朝风	zhao feng
+春风	chun feng
+松风	song feng
+旗风	qi feng
+
+睦月	mu yue
+如月	ru yue
+弥生	mi sheng
+卯月	mao yue
+皋月	gao yue
+水无月	shui wu yue
+文月	wen yue
+长月	chang yue
+菊月	ju yue
+三日月	san ri yue
+望月	wang yue
+
+吹雪	chui xue
+白雪	bai xue
+初雪	chu xue
+深雪	shen xue
+从云	cong yun
+叢云	cong yun
+薄云	bao yun
+白云	bai yun
+矶波	ji bo
+磯波	ji bo
+浦波	pu bo
+
+绫波	ling bo
+敷波	fu bo
+天雾	tian wu
+狭雾	xia wu
+# 胧
+# 曙
+# 涟
+# 潮
+
+# 晓
+# 响
+# 雷
+# 电
+
+初春	chu chun
+子日	zi ri
+若叶	ruo ye
+初霜	chu shuang
+有明	you ming
+夕暮	xi mu
+
+白露	bai lu
+时雨	shi yu
+村雨	cun yu
+夕立	xi li
+春雨	chun yu
+五月雨	wu yue yu
+海风	hai feng
+山风	shan feng
+江风	jiang feng
+凉风	liang feng
+
+朝潮	chao chao
+大潮	da chao
+满潮	man chao
+荒潮	huang chao
+朝云	zhao yun
+山云	shan yun
+夏云	xia yun
+峰云	feng yun
+# 霰
+# 霞
+
+阳炎	yang yan
+不知火	bu zhi huo
+黑潮	hei chao
+亲潮	qin chao
+早潮	zao chao
+初风	chu feng
+雪风	xue feng
+天津风	tian jin feng
+时津风	shi jin feng
+浦风	pu feng
+矶风	ji feng
+磯风	ji feng
+浜风	bang feng
+谷风	gu feng
+野分	ye fen
+# 岚
+萩风	qiu feng
+舞风	wu feng
+秋云	qiu yun
+
+夕云	xi yun
+卷云	juan yun
+风云	feng yun
+长波	chang bo
+卷波	juan bo
+高波	gao bo
+玉波	yu bo
+凉波	liang bo
+藤波	teng bo
+早波	zao bo
+滨波	bin bo
+冲波	chong bo
+岸波	an bo
+朝霜	zhao shuang
+早霜	zao shuang
+秋霜	qiu shuang
+清霜	qing shuang
+
+秋月	qiu yue
+照月	zhao yue
+初月	chu yue
+凉月	liang yue
+冬月	dong yue
+
+岛风	dao feng
+
+# 松
+# 竹
+# 梅
+# 桃
+# 杉
+# 榧
+
+# DE
+占守	zhan shou
+国后	guo hou
+八丈	ba zhang
+石垣	shi yuan
+
+择捉	ze zhuo
+松轮	song lun
+佐渡	zuo du
+对马	dui ma
+平户	ping hu
+福江	fu jiang
+
+御藏	yu zang
+能美	neng mei
+仓桥	cang qiao
+屋代	wu dai
+
+日振	ri zhen
+大东	da dong
+昭南	zhao nan
+
+鹈来	ti lai
+稻木	dao mu
+
+第四号海防舰	di si hao hai fang jian
+第二十二号海防舰	di er shi er hao hai fang jian
+第三〇号海防舰	di san ling hao hai fang jian
+
+# SS
+马路由	ma lu you
+丸优	wan you
+
+# AV
+千岁	qian sui
+千代田	qian dai tian
+瑞穗	rui sui
+日进	ri jin
+秋津洲	qiu jin zhou
+
+# AO
+神威	shen wei
+速吸	su xi
+宗谷	zong gu
+大泊	da bo
+山汐丸	shan xi wan
+岛根丸	dao gen wan
+
+# LHA
+神州丸	shen zhou wan
+秋津丸	qiu jin wan	
+熊野丸	xiong ye wan
+第百一号输送舰	di bai yi hao shu song jian
+
+# AS
+迅鲸	xun jing
+长鲸	chang jing
+大鲸	da jing
+平安丸	ping an wan
+
+# AR
+朝日	zhao ri
+明石	ming shi
+
+# 荣誉提名
+信浓	xin nong

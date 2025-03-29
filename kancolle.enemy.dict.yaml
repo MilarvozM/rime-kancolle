@@ -1,0 +1,74 @@
+# Rime dictionary
+# encoding: utf-8
+# 
+# 制作参考了2014年版本的既存QQ词库（搜狗未找到）：
+# https://cdict.qq.pinyin.cn/detail?dict_id=s48206
+# 分类排序思路参考了2020年版本的RIME词库：
+# https://bbs.nga.cn/read.php?tid=20070795
+
+# 本文件单独包含部分敌舰名。
+# 顺序整理中
+---
+name: kancolle
+version: "2025-03-23"
+sort: by_weight
+...
+# 敌舰 Enemy
+后期型驱逐	hou qi xing qu zhu
+深海栖舰	shen hai qi jian
+浮游要塞	fu you yao sai
+护卫要塞	hu wei yao sai
+炮台小鬼	pao tai xiao gui
+泊地栖鬼	po di qi gui
+装甲空母鬼	zhuang jia kong mu gui
+南方栖鬼	nan fang qi gui
+南方栖战鬼	nan fang qi zhan gui
+离岛栖鬼	li dao qi gui
+空母栖鬼	kong mu qi gui
+轻巡栖鬼	qing xun qi gui
+驱逐古鬼	qu zhu gu gui
+空母夏鬼	kong mu xia gui
+泊地栖姬	po di qi ji
+装甲空母姬	zhuang jia kong mu ji
+南方栖战姬	nan fang qi zhan ji
+飞机场姬	fei ji chang ji
+战舰栖姬	zhan jian qi ji
+港湾栖姬	gang wan qi ji
+北方栖姬	bei fang qi ji
+中间栖姬	zhong jian qi ji
+空母栖姬	kong mu qi ji
+驱逐栖姬	qu zhu qi ji
+水母栖姬	shui mu qi ji
+防空栖姬	fang kong qi ji
+轻巡栖姬	qing xun qi ji
+潜水栖姬	qian shui qi ji
+集积地栖姬	ji ji di qi ji
+重巡栖姬	zhong xun qi ji
+离岛栖姬	li dao qi ji
+彼岸栖姬	bi an qi ji
+中枢栖姬	zhong shu qi ji
+驱逐古姬	qu zhu gu ji
+潜水夏姬	qian shui xia ji
+战舰夏姬	zhan jian xia ji
+港湾夏姬	gang wan xia ji
+重巡夏姬	zhong xun xia ji
+水母水姬	shui mu shui ji
+深海海月姬	shen hai hai yue ji
+深海双子栖姬	shen hai shuang zi qi ji
+护卫栖姬	hu wei qi ji
+北端上陆姬	bei duan shang lu ji
+北方水姬	bei fang shui ji
+潜水新栖姬	qian shui xin qi ji
+集积地夏姬	ji ji di xia ji
+战舰法栖姬	zhan jian fa qi ji
+空母夏姬	kong mu xia ji
+欧洲栖姬	ou zhou qi ji
+海峡夜栖姬	hai xia ye qi ji
+防空埋护姬	fang kong mai hu ji
+护卫栖水姬	hu wei qi shui ji
+深海鹤栖姬	shen hai he qi ji
+空母水鬼	kong mu shui gui
+战舰水鬼	zhan jian shui gui
+港湾水鬼	gang wan shui gui
+泊地水鬼	po di shui gui
+驱逐水鬼	qu zhu shui gui

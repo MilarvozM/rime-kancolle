@@ -1,0 +1,40 @@
+# Rime dictionary
+# encoding: utf-8
+# 
+# 制作参考了2014年版本的既存QQ词库（搜狗未找到）：
+# https://cdict.qq.pinyin.cn/detail?dict_id=s48206
+# 分类排序思路参考了2020年版本的RIME词库：
+# https://bbs.nga.cn/read.php?tid=20070795
+
+# 本文件为服务器。
+# 参考：https://zh.kcwiki.cn/wiki/服务器
+---
+name: kancolle
+version: "2025-03-29"
+sort: by_weight
+...
+# 镇守府服务器 Servers
+镇守府	zhen shou fu
+警备府	jing bei fu
+泊地	bo di
+横须贺	heng xu he
+# 吴
+吴港	wu gang
+佐世保	zuo shi bao
+舞鹤	wu he
+大凑	da cou
+特鲁克	te lu ke
+林加	lin jia
+拉包尔	la bao er
+肖特兰	xiao te lan
+布因	bu yin
+塔威塔威	ta wei ta wei
+帕劳	pa lao
+文莱	wen lai
+单冠湾	dan guan wan
+幌筵	huang yan
+宿毛湾	su mao wan
+鹿屋	lu wu
+岩川	yan chuan
+佐伯湾	zuo bo wan
+柱岛	zhu dao

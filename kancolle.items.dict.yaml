@@ -14,7 +14,7 @@
 # 战斗详报只录入详报
 ---
 name: kancolle
-version: "2025-03-23"
+version: "2025-03-29"
 sort: by_weight
 ...
 # 道具 Items

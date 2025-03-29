@@ -10,36 +10,33 @@
 计划：
 
 - [x] IJN船名（包含舰种分类和具体船名）：种类-型-几号舰
+	更新至2025春活动（大泊，榧，杉，岛根丸）
 
 - [ ] 外国船名（包含舰种分类和具体船名）：种类-型-几号舰
 
 - [ ] 装备（包含分类总称，前后缀，具体装备名称）：种类-拼音顺序
 
-- [ ] 敌舰（拼音顺序）
+- [x] 敌舰（出现顺序）
+	更新至2020年版
 
-- [ ] 道具（拼音顺序）
+- [x] 道具（游戏内显示顺序）
 
 - [ ] 游戏专用名词（拼音顺序）
 
-- [ ] 镇守府服务器（拼音顺序）
+- [ ] 镇守府服务器（数字顺序）
 
 - [ ] 相关人员（相关职业-拼音顺序）
 
 
-制作参考了2014年版本的既存QQ词库（搜狗未找到）：
+感谢前人制作提供的参考：
+[2014年版本的既存QQ词库](https://cdict.qq.pinyin.cn/detail?dict_id=s48206)
+[2020年版本的RIME词库](https://bbs.nga.cn/read.php?tid=20070795)
 
-https://cdict.qq.pinyin.cn/detail?dict_id=s48206
+排序参考以[wikiwiki.jp](https://wikiwiki.jp/kancolle/)为主，[舰百](https://zh.kcwiki.cn/wiki/)为辅。大部分相同少数冲突时采用日站顺序。如果有特殊排序会写明。
 
-分类排序思路参考了2020年版本的RIME词库：
+舰娘参考[日版wiki](https://wikiwiki.jp/kancolle/艦娘カード一覧2)[舰百汉化](https://zh.kcwiki.cn/wiki/Template:舰娘导航)
+舰船分类主要参考游戏内，舰种会转换的以最主要或者最长时间的使用类别为分组依据（例：朝日是修理舰，熊野铃谷是CAV）。晓响雷电这类单字做注释占位表示。
 
-https://bbs.nga.cn/read.php?tid=20070795
+装备参考[日版wiki](https://wikiwiki.jp/kancolle/装備カード一覧（種類別）)
 
-
-
-舰船分类主要参考游戏内，舰种会转换的以最主要或者最长时间的使用类别为分组依据（例：朝日是修理舰，熊野铃谷是CAV）。
-
-舰娘排序参考日版wiki：https://wikiwiki.jp/kancolle/艦娘カード一覧2
-
-装备分类参考日版wiki：https://wikiwiki.jp/kancolle/装備カード一覧（種類別）
-
-晓响雷电这类单字做注释占位表示。
+道具参考[日版wiki](https://wikiwiki.jp/kancolle/アイテム)[舰百汉化](https://zh.kcwiki.cn/wiki/道具)

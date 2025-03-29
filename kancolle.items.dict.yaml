@@ -1,0 +1,55 @@
+# Rime dictionary
+# encoding: utf-8
+# 
+# 制作参考了2014年版本的既存QQ词库（搜狗未找到）：
+# https://cdict.qq.pinyin.cn/detail?dict_id=s48206
+# 分类排序思路参考了2020年版本的RIME词库：
+# https://bbs.nga.cn/read.php?tid=20070795
+
+# 本文件为道具词条。
+# 顺序主参考：https://wikiwiki.jp/kancolle/アイテム
+# 翻译出处：https://zh.kcwiki.cn/wiki/道具
+# 礼物箱、家具箱、饭团等词因贴近生活且常用俗称更常见，不添加在此
+# 甲章等常用简称加入黑话列表
+# 战斗详报只录入详报
+---
+name: kancolle
+version: "2025-03-23"
+sort: by_weight
+...
+# 道具 Items
+改修资材	gai xiu zi cai
+给粮舰	gei liang jian
+伊良湖	yi liang hu
+甲种勋章	jia zhong xun zhang
+新型航空器设计图	xin xing hang kong qi she ji tu
+间宫	jian gong
+改装设计图	gai zhuang she ji tu
+特制家具职人	te zhi jia ju zhi ren
+司令部要员	si ling bu yao yuan
+补强增设	bu qiang zeng she
+高速修复材	gao su xiu fu cai
+高速建造材	gao su jian zao cai
+开发资材	kai fa zi cai
+船坞开放匙	chuan wu kai fang shi
+应急修理要员	ying ji xiu li yao yuan
+应急修理女神	ying ji xiu li nv shen
+熟练搭乘员	shu lian da cheng yuan
+试制甲板用弹射器	shi zhi jia ban yong tan she qi
+Ne式引擎	ne shi yin qing
+洋上补给	yang shang bu ji
+设营队	she ying dui
+潜水舰补给物资	qian shui jian bu ji wu zi
+详报	xiang bao
+夜间熟练搭乘员	ye jian shu lian da cheng yuan
+新型火炮兵装资材	xin xing huo pao bing zhuang zi cai
+新型航空兵装资材	xin xing hang kong bing zhuang zi cai
+新型喷进装备开发资材	xin xing pen jin zhuang bei kai fa zi cai
+海外舰最新技术	hai wai jian zui xin ji shu
+紧急修理资材	jin ji xiu li zi cai
+新型兵装资材	xin xing bing zhuang zi cai
+海色缎带	hai se duan dai
+白襻	bai pan
+航空特别增加食	hang kong te bie zeng jia shi
+菱饼	ling bing
+母港扩张	mu gang kuo zhang
